@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-learn.adafruit.com/assets/assets/000/112/622/medium800/programming_GitHub_logo_with_mark.png?1656187481)](https://tanishqrinjay.io)
+[![MasterHead](https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)](https://tanishqrinjay.io)
 <h1 align="center">Hi 👋, I'm Tanishq Rinjay</h1>
 <h3 align="center">Currently Learning Frontend Development, passionate about Tech.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
