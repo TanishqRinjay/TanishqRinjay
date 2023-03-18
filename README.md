@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqrinjay&show_icons=true&locale=en" alt="tanishqrinjay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqrinjay&" alt="tanishqrinjay" /></p>
+<p><img src="https://www.cloudskillsboost.google/public_profiles/a9b9197c-a6fa-4858-9434-74413389983b/badges/3325464" /></p>
