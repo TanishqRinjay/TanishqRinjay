@@ -11,7 +11,7 @@
 - 📫 How to reach me **tanishqbaranwal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color: rgb(50, 50, 50);">
 <a href="https://linkedin.com/in/tanishq-rinjay-2885411a5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq rinjay" height="30" width="40" /></a>
 <a href="https://instagram.com/tanishq.rj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishq.rj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/s1rn21cs170" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="1rn21cs170" height="30" width="40" /></a>
