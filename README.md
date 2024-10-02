@@ -1,14 +1,14 @@
 [![MasterHead](https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)](https://tanishqrinjay.io)
 <h1 align="center">Hi 👋, I'm Tanishq Rinjay</h1>
-<h3 align="center">Currently Learning Frontend Development, passionate about Tech.</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqrinjay&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqrinjay" /> </p>
 
-- 🌱 I’m currently learning **Web-Dev->JavaScript**
+- 🌱 I’m currently learning **Web-Dev & DevOps**
 
-- 📫 How to reach me **tanishqbaranwal@gmail.com**
+- 📫 How to reach me **tanishqrinjay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color: rgb(255, 255, 255);">
