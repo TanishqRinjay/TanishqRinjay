@@ -1,26 +1,121 @@
-[![MasterHead](https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)](https://tanishqrinjay.io)
-<h1 align="center">Hi 👋, I'm Tanishq Rinjay</h1>
-<h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# 💻 About Me
 
+```bash
+> whoami
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqrinjay&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqrinjay" /> </p>
+Name        :: Tanishq Rinjay
+Role        :: Full Stack Developer
 
-- 🌱 I’m currently learning **Web-Dev & DevOps**
+Location    :: India 🇮🇳
 
-- 📫 How to reach me **tanishqrinjay@gmail.com**
+Experience  :: Building scalable web applications,
+               AI-powered systems and backend services
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="background-color: rgb(255, 255, 255);">
-<a href="https://www.linkedin.com/in/tanishqrinjay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq rinjay" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/s1rn21cs170" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="1rn21cs170" height="30" width="40" /></a>
+Currently   :: 🤖 Multi-Agent AI Systems
+               ⚡ Reverse Proxy & Load Balancer (C++)
+               📚 Distributed Systems
+               ☁️ DevOps & Cloud
+
+Interested In
+             :: High Performance Systems
+                Backend Engineering
+                Networking
+                System Design
+                Artificial Intelligence
+
+Backend     :: FastAPI
+               Express.js
+               Node.js
+
+Frontend    :: React
+               Next.js
+               Tailwind CSS
+
+Languages   :: C++
+               Python
+               JavaScript
+               TypeScript
+
+Databases   :: PostgreSQL
+               MongoDB
+               Redis
+
+Cloud       :: Docker
+               AWS
+               Cloudflare
+
+Tools       :: Git
+               Linux
+               VS Code
+               Postman
+
+Fun Fact    :: I enjoy building low-level systems
+               from scratch to understand how they
+               work under the hood.
+```
+
+---
+
+# 🚀 What I'm Working On
+
+- 🤖 Building AI Agents using OpenAI, Gemini & LiveKit
+- ⚡ Developing a Reverse Proxy & Load Balancer in C++
+- 🌐 Creating production-ready Full Stack applications
+- 📚 Learning Distributed Systems and System Design
+- ☁️ Exploring scalable cloud-native architectures
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,git,github,linux,vscode&perline=9"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqrinjay&show_icons=true&locale=en&layout=compact" alt="tanishqrinjay" /></p>
+# 📌 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqrinjay&show_icons=true&locale=en" alt="tanishqrinjay" /></p>
+### 🤖 AI Agent Platform
+Multi-agent architecture using OpenAI, Gemini, LiveKit and function calling.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqrinjay&" alt="tanishqrinjay" /></p>
+### ⚡ Reverse Proxy & Load Balancer
+Implemented from scratch in C++ using Winsock, multithreading, HTTP parsing and round-robin scheduling.
+
+### 🌐 Full Stack Applications
+Built production-ready applications using React, Next.js, FastAPI, PostgreSQL and Docker.
+
+### 🚀 Exploring
+Distributed Systems • Networking • DevOps • Cloud Infrastructure
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tanishqrinjay@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanishqrinjay">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/tanishqrinjay">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Motto
+
+*"The best way to understand a system is to build it yourself."*
+
+</div>
